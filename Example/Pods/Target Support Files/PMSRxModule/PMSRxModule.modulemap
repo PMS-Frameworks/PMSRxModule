@@ -1,0 +1,6 @@
+framework module PMSRxModule {
+  umbrella header "PMSRxModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

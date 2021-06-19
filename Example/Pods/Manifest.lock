@@ -1,0 +1,16 @@
+PODS:
+  - PMSRxModule (0.1.0)
+
+DEPENDENCIES:
+  - PMSRxModule (from `../`)
+
+EXTERNAL SOURCES:
+  PMSRxModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMSRxModule: 6ac1a747bc4ecb6c14687a4af145d8079d67ae51
+
+PODFILE CHECKSUM: 9d7eafee8628046d5ffe71ff98a5cdd7fd0fb8c4
+
+COCOAPODS: 1.10.1

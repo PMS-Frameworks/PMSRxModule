@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PMSRxModule_Tests' do
+  pod 'PMSRxModule', :path => '../'
+  
+  
+end
