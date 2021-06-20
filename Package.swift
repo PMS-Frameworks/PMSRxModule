@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .target(
             name: "PMSRxModule",
-            dependencies: [],
+            dependencies: ["RxSwift"],
             path: "PMSRxModule/Classes")
     ]
 )
